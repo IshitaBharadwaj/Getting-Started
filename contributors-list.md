@@ -19,4 +19,9 @@ We're drowning in information and starving for knowledge. <br />
 Born and brought up in Bengaluru. A Harry Potter fanatic and occasional keyboard player. <br />
 Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <br />
 
+**Name** : Ishita Bharadwaj <br />
+**Link to profile** : [A-HK](https://github.com/IshitaBharadwaj) <br />
+**About Me** : I am passionate about new tech and dance.<br />
+<br />
+
 
